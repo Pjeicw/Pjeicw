@@ -7,7 +7,6 @@ Full-Stack Developer
 Failure makes me grow, and learning helps me understand and overcome challenges.
 
 * 🌍  I'm based in Vientiane
-* 🖥️  See my portfolio at [uknowTech](http://uknowTech)
 * ✉️  You can contact me at [pjeycw@gmail.com](mailto:pjeycw@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS, TypeScript, React Native, Flutter, MAUI, Python, Java, C#
 
