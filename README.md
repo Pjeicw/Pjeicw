@@ -30,9 +30,16 @@ src="https://img.shields.io/github/followers/Pjeicw?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Pjeicw"><img src="https://github-readme-stats.vercel.app/api?username=Pjeicw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pjeicw's GitHub stats" /></a>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/Pjeicw">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjeicw&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+  <a href="http://www.github.com/Pjeicw">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=Pjeicw&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Pjeicw's GitHub stats" />
+  </a>
+</div>
 
-<a href="https://github.com/Pjeicw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjeicw&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ### Support Me
 
