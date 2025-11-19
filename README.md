@@ -6,9 +6,9 @@ Full-Stack Developer
 
 Failure makes me grow, and learning helps me understand and overcome challenges.
 
-* 🌍  I'm based in Vientiane
+* 🌍  I'm based in Vientiane, Lao
 * ✉️  You can contact me at [pjeycw@gmail.com](mailto:pjeycw@gmail.com)
-* 🧠  I'm learning ReactJS, NextJS, TypeScript, React Native, Flutter, MAUI, Python, Java, C#
+* 🧠  I'm learning AI models, Python, Flutter, MAUI, React Native, Java, C#, ReactJS, NextJS, TypeScript...
 
 <a href="https://www.github.com/Pjeicw" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Pjeicw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
